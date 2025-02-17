@@ -1,5 +1,11 @@
-# Other text to add
+
+# Test file for test
+
+R is a collaborative project with many contributors.
+Type "contributors()" for more information and
+'citation()' on how to cite R or R packages in publications.
 
 Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
+
